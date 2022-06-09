@@ -1,1 +1,1 @@
-# robot-gitlab-assign-issue
+# robot-gitee-assign-issue
